@@ -1,0 +1,19 @@
+PHP version 7.4.0RC4
+Use preloaded class
+Using FFI::scope OK
+
+# FFI Wrapper
+Src length           = 8673632
+ZSTD_compress        = 1828461
+Src length           = 1828461
+ZSTD_decompress      = 8673632
+Check                = OK
+Using FFI  extension = 0,09"
+
+# PHP extension
+Src length           = 8673632
+ZSTD_compress        = 1828461
+Src length           = 1828461
+ZSTD_decompress      = 8673632
+Check                = OK
+Using ZSTD extension = 0,09"
